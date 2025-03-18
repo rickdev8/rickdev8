@@ -31,6 +31,13 @@ Me chamo Henrique Abade Lemos, tenho 19 anos e sou natural da Bahia. Concluí o 
             src="https://custom-icon-badges.demolab.com/github/followers/rickdev8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+     <a href="https://github.com/rickdev8?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://portfolio-wheat-one-63.vercel.app"
+        />
+    </a>
 </p>
 
 ---
