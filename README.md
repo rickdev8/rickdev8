@@ -13,21 +13,20 @@ Me chamo Henrique Abade Lemos, tenho 19 anos e sou natural da Bahia. Concluí o 
             src="https://custom-icon-badges.demolab.com/badge/Portfólio-CE4630?style=for-the-badge&logo=globe&logoColor=white"
         />
     </a>
-     <a href="https://portfolio-wheat-one-63.vercel.app">
+     <a href="https://github.com/rickdev8?tab=repositories&sort=stargazers">
         <img 
             alt="portfólio" 
             title="Acesse meu portfólio" 
-            src="https://custom-icon-badges.demolab.com/badge/Portfólio-CE4630?style=for-the-badge&logo=globe&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/stars/rickdev8?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
-     <a href="https://portfolio-wheat-one-63.vercel.app">
+     <a href="https://github.com/rickdev8p">
         <img 
             alt="portfólio" 
             title="Acesse meu portfólio" 
-            src="https://custom-icon-badges.demolab.com/badge/Portfólio-CE4630?style=for-the-badge&logo=globe&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/rickdev8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    
 </p>
 
 ---
