@@ -5,7 +5,7 @@
 Me chamo Henrique Abade Lemos, tenho 19 anos e sou natural da Bahia. Concluí o ensino médio no CEEMB. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia, você pode ver mais sobre mim no meu portifólio abaixo.
 
 <p align="left">
-    <!-- Badge para o portfólio -->
+ >
     <a href="https://portfolio-wheat-one-63.vercel.app">
         <img 
             alt="portfólio" 
@@ -13,25 +13,21 @@ Me chamo Henrique Abade Lemos, tenho 19 anos e sou natural da Bahia. Concluí o 
             src="https://custom-icon-badges.demolab.com/badge/Portfólio-CE4630?style=for-the-badge&logo=globe&logoColor=white"
         />
     </a>
-
-
-    <!-- Badge de estrelas no GitHub -->
-    <a href="https://github.com/rickdev8?tab=repositories&sort=stargazers">
+     <a href="https://portfolio-wheat-one-63.vercel.app">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rickdev8?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            alt="portfólio" 
+            title="Acesse meu portfólio" 
+            src="https://custom-icon-badges.demolab.com/badge/Portfólio-CE4630?style=for-the-badge&logo=globe&logoColor=white"
         />
     </a>
-
-    <!-- Badge de seguidores no GitHub -->
-    <a href="https://github.com/rickdev8">
+     <a href="https://portfolio-wheat-one-63.vercel.app">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rickdev8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="portfólio" 
+            title="Acesse meu portfólio" 
+            src="https://custom-icon-badges.demolab.com/badge/Portfólio-CE4630?style=for-the-badge&logo=globe&logoColor=white"
         />
     </a>
+    
 </p>
 
 ---
