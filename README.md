@@ -60,7 +60,7 @@ Me chamo Henrique Abade Lemos, tenho 19 anos e sou natural da Bahia. Concluí o 
 <img 
     align="left" 
     alt="NodeJs"
-    title="TypeScript" 
+    title="NodeJs" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
